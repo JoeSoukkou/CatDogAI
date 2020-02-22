@@ -11,7 +11,6 @@ import os
 
 
 
-os.chdir("C://Users/Joey S. MD/Desktop/Machine Learning/DeepLearningTensorflow")
 
 
 CATEGORY = ["Dog", "Cat"]
